@@ -37,7 +37,7 @@ h3 {
   /*к нему привязывается слайдер*/
 }
 .active-header-show {
-  background: url("img/loewe.png") center no-repeat;
+  background: url("img/header-background.png") center no-repeat;
   /*background: url("img/jo1.png") center no-repeat;
 width: 1119px;
 background-size: 1119px;*/
@@ -252,6 +252,7 @@ background-size: 1119px;*/
   /*?*/
   display: none;
 }
+
 .main-navigation .right-menu-show {
   display: block;
   animation: appearance 0.9s;
